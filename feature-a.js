@@ -1,1 +1,1 @@
-console.log('sarap susuhin ng utong ni annette! ang tigas!');
+alert('sarap susuhin ng utong ni annette! ang tigas!');
